@@ -214,3 +214,5 @@ def test_027_auth_ya(selenium):
     sleep(5)
 
     assert form.get_base_url() == 'passport.yandex.ru'
+
+### end.
